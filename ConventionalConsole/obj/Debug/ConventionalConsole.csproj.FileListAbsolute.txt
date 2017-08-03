@@ -1,0 +1,12 @@
+D:\Project\ConventionalConsole\bin\Debug\ConventionalConsole.exe.config
+D:\Project\ConventionalConsole\bin\Debug\ConventionalConsole.exe
+D:\Project\ConventionalConsole\bin\Debug\ConventionalConsole.pdb
+D:\Project\ConventionalConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Project\ConventionalConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\ConventionalConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Project\ConventionalConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\Project\ConventionalConsole\obj\Debug\ConventionalConsole.exe
+D:\Project\ConventionalConsole\obj\Debug\ConventionalConsole.pdb
+D:\Project\ConventionalConsole\obj\Debug\ConventionalConsole.csprojResolveAssemblyReference.cache
+D:\Project\ConventionalConsole\bin\Debug\RestSharp.dll
+D:\Project\ConventionalConsole\bin\Debug\RestSharp.xml
